@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋🌌
+I'm currently working as a front-end developer(contract) and searching for a new job.
+I'm currently learning Dev-Ops
+How to reach me: 
+📞: 4097976471
+📩: matinashrestha92@gmail.com
+linkedin.com/in/matinashrestha/
 
 <!--
 **mshrestha5/mshrestha5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
