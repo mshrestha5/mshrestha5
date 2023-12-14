@@ -6,7 +6,7 @@ I'm currently learning Dev-Ops
 
 How to reach me: 
 
-📞: 4097976471
+📞: 9292827029
 
 📩: matinashrestha92@gmail.com
 
