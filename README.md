@@ -6,8 +6,6 @@ I'm currently learning Dev-Ops
 
 How to reach me: 
 
-📞: 9292827029
-
 📩: matinashrestha92@gmail.com
 
 linkedin.com/in/matinashrestha/
