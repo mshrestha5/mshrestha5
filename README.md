@@ -1,6 +1,6 @@
 ### Hi there 👋🌌
 
-I'm currently working as a front-end developer(contract) and searching for a new job.
+I'm currently working as a software developer.
 
 I'm currently learning Dev-Ops
 
