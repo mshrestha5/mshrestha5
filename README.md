@@ -2,8 +2,6 @@
 
 I'm currently working as a software developer.
 
-I'm currently learning Dev-Ops
-
 How to reach me: 
 
 📩: matinashrestha92@gmail.com
